@@ -7,3 +7,6 @@ exports.seed = function(knex, Promise) {
       return knex('list').insert(lists);
       });
 };
+
+
+// https://protected-badlands-23797.herokuapp.com/ | https://git.heroku.com/protected-badlands-23797.git
